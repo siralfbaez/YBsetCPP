@@ -1,0 +1,3 @@
+/Users/siralfbaez/CLionProjects/YBsetCPP/cmake-build-debug/CMakeFiles/YBsetCPP.dir
+/Users/siralfbaez/CLionProjects/YBsetCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/siralfbaez/CLionProjects/YBsetCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
